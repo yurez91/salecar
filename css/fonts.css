@@ -1,0 +1,19 @@
+@font-face{
+	font-family: "Quite_Chocolatey";
+	src: url("../fonts/Quite Chocolatey.eot");
+	src: url("../fonts/Quite Chocolatey.eot?#iefix")format("embedded-opentype")
+	url("../fonts/Quite Chocolatey.woff") format("woff"),
+	url("../fonts/Quite Chocolatey.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "COUTURE-Bold";
+	src: url("../fonts/COUTURE-Bold.eot");
+	src: url("../fonts/COUTURE-Bold.eot?#iefix")format("embedded-opentype")
+	url("../fonts/COUTURE-Bold.woff") format("woff"),
+	url("../fonts/COUTURE-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
