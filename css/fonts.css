@@ -1,10 +1,10 @@
 @font-face{
-	font-family: "Quite_Chocolatey";
-	src: url("../fonts/Quite Chocolatey.eot");
-	src: url("../fonts/Quite Chocolatey.eot?#iefix") format("embedded-opentype"),
-	url("../fonts/Quite Chocolatey.woff") format("woff"),
-	url("../fonts/Quite Chocolatey.ttf") format("truetype"),
-	url('../fonts/Quite Chocolatey.svg#Quite Chocolatey') format('svg');
+	font-family: "Quite Chocolatey";
+	src: url("../fonts/Quite_Chocolatey.eot");
+	src: url("../fonts/Quite_Chocolatey.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/Quite_Chocolatey.woff") format("woff"),
+	url("../fonts/Quite_Chocolatey.ttf") format("truetype"),
+	url('../fonts/Quite_Chocolatey.svg#Quite_Chocolatey') format('svg');
 	font-style: normal;
 	font-weight: normal;
 }
